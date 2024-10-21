@@ -6,7 +6,7 @@
 
 ![code](https://github.com/user-attachments/assets/77479570-e9a0-4874-a8c1-a6a85db8000f)
 
-<h3>Resultado</h3>
+<h2>Resultado</h2>
 
 <h3>Antes</h3>
 
