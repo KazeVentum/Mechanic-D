@@ -8,5 +8,4 @@
 
 <h3>Resultado</h3>
 
-
-![Descripción de la imagen](./Images/resultado.png)
+![Resultado](https://github.com/user-attachments/assets/a9e9e858-b8d1-471a-808c-b6b533d48a31)
